@@ -19,8 +19,6 @@ A passionate developer looking to explore and get a hands-on new technologies ev
 <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer" style="margin-left: 1px; margin-right: 1px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer" style="margin-left: 1px; margin-right: 1px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer" style="margin-left: 1px; margin-right: 1px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://flutter.dev/" target="_blank" rel="noreferrer" style="margin-left: 1px; margin-right: 1px;"><img src="https://raw.githubusercontent.com
-
 </p>
 
 
